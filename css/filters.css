@@ -1,0 +1,28 @@
+img {width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+.photo1 {
+    filter: blur(2px);
+}
+
+.photo2 {
+    filter: brightness(2);
+}
+
+.photo3 {
+   filter: contrast(2);
+}
+
+.photo4 {
+    filter: grayscale(5);
+}
+
+.photo5 {
+    filter: sepia(2);
+}
+
+.photo6 {
+    filter: opacity(0.5);
+}
